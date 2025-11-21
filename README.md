@@ -45,9 +45,12 @@ Você pode visualizar o projeto rodando online ou configurar ele localmente.
 
 O design é focado na estética de um **catálogo noturno/escuro**, usando as fontes **Quicksand** e **Oswald** e uma paleta de cores contrastante definida no **`style.css`**:
 
-* **Fundo:** **`--color-dark-bg: #1a1a2e`** (Azul Escuro)
-* **Texto Principal:** **`--color-text-light: #e0e0e0`** (Cinza Claro)
-* **Destaques/Links:** **`--color-primary-blue: #5b9bd5`** e **`--color-accent-red: #cc0000`**
+**Fundo Principal (Dark Theme):** **`wallpaper-attack_on_titan`**
+* **Fundo Secundário:** **`--color-darker-bg: #0f0f1c`** (Quase Preto)
+* **Cor Primária/Links:** **`--color-primary-blue: #5b9bd5`** (Azul Claro/Ciano)
+* **Acento de Alerta/Destaque:** **`--color-accent-red: #cc0000`** (Vermelho Intenso)
+* **Destaque Secundário (Gold):** **`--color-highlight-gold: #fcc100`** (Amarelo/Ouro)
+* **Texto/Elementos Claros:** **`--color-text-light: #e0e0e0`** (Cinza Muito Claro)
   
 ---
 ### 👩‍💻 Autor
