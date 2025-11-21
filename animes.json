@@ -1,0 +1,252 @@
+[
+  {
+    "nome": "Jujutsu Kaisen",
+    "descricao": "Yuji Itadori, um estudante com força física imensa, ingere um objeto amaldiçoado e se torna o hospedeiro de Sukuna, o Rei das Maldições, entrando para uma sociedade secreta de Feiticeiros Jujutsu.",
+    "generos": "Ação, Sobrenatural, Escola, Shounen",
+    "imagem": "../Imgs/Jujutsu Kaisen Poster.png",
+    "linkAssistir": "https://crunchyroll.com/jujutsu-kaisen",
+    "linkManga": "https://mangalivre.blog/manga/jujutsu-kaisen",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Jujutsu_Kaisen",
+    "destaque": false
+  },
+  {
+    "nome": "Attack on Titan (Shingeki no Kyojin)",
+    "descricao": "A humanidade vive cercada por muralhas para se proteger de gigantes devoradores de homens. Eren Yeager jura vingança após sua cidade ser destruída e sua mãe morta por um Titã.",
+    "generos": "Ação, Fantasia Sombria, Militar, Drama",
+    "imagem": "../Imgs/Attack_on_Titans Poster.jpg",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/attack-on-titan/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Attack_on_Titan",
+    "destaque": false
+  },
+  {
+    "nome": "My Hero Academia (Boku no Hero Academia)",
+    "descricao": "Em um mundo onde quase toda a população tem superpoderes (Quirks), Izuku Midoriya, nascido sem poderes, sonha em se tornar um herói e é escolhido como sucessor do lendário All Might.",
+    "generos": "Ação, Superpoderes, Escola, Aventura",
+    "imagem": "../Imgs/Boku no Hero Academia Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.to/manga/boku-no-hero-academia/capitulo-1/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/My_Hero_Academia",
+    "destaque": false
+  },
+  {
+    "nome": "Demon Slayer (Kimetsu no Yaiba)",
+    "descricao": "Tanjiro Kamado embarca em uma jornada para se tornar um caçador de demônios e encontrar uma cura para sua irmã Nezuko, que foi transformada em um demônio, após o massacre de sua família.",
+    "generos": "Ação, Fantasia, Histórico, Sobrenatural",
+    "imagem": "Imgs/Demon Slayer Kimetsu no Yaiba Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://kny.manganyaa.com/ler-online-gratis-portugues/capitulo/1",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Demon_Slayer",
+    "destaque": false
+  },
+  {
+    "nome": "Spy x Family",
+    "descricao": "Para manter a paz entre as nações em guerra, o espião mestre 'Twilight' deve formar uma família falsa, sem saber que sua 'esposa' é uma assassina e sua 'filha' é uma telepata.",
+    "generos": "Comédia, Espionagem, Slice of Life, Ação",
+    "imagem": "Imgs/Spy x Family Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/spy-x-family",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Spy_x_Family",
+    "destaque": false
+  },
+  {
+    "nome": "Chainsaw Man",
+    "descricao": "Denji, um jovem extremamente pobre que trabalha como caçador de demônios, funde-se com seu demônio de estimação Pochita e ganha a habilidade de transformar partes de seu corpo em motosserras.",
+    "generos": "Ação, Horror, Sobrenatural, Shounen",
+    "imagem": "Imgs/Chainsaw Man Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.to/manga/chainsaw-man/capitulo-1/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Chainsaw_Man",
+    "destaque": false
+  },
+  {
+    "nome": "One Piece",
+    "descricao": "Monkey D. Luffy, um jovem cujo corpo ganhou as propriedades da borracha após comer uma Fruta do Diabo, viaja pelos mares com sua tripulação, os Piratas do Chapéu de Palha, em busca do tesouro One Piece.",
+    "generos": "Aventura, Ação, Fantasia, Shounen",
+    "imagem": "Imgs/OnePiece Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangaplus.shueisha.co.jp/titles/100149",
+    "linkInfos": "https://pt.wikipedia.org/wiki/One_Piece",
+    "destaque": false
+  },
+  {
+    "nome": "Haikyu!!",
+    "descricao": "Shoyo Hinata, apesar de sua baixa estatura, é determinado a se tornar um grande jogador de vôlei. Ele se junta ao time de Karasuno e forma uma dupla improvável com o gênio Tobio Kageyama.",
+    "generos": "Esporte, Comédia, Escola, Drama",
+    "imagem": "Imgs/Haikyuu!! Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/haikyuu",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Haikyu!!",
+    "destaque": false
+  },
+  {
+    "nome": "Vinland Saga",
+    "descricao": "Thorfinn, um jovem viking criado no campo de batalha, busca vingança contra Askeladd, o mercenário que matou seu pai, envolvendo-se na política dos reinos nórdicos e na guerra pela Inglaterra.",
+    "generos": "Histórico, Aventura, Drama, Ação",
+    "imagem": "Imgs/Vinland Saga Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/vinland-saga",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Vinland_Saga",
+    "destaque": false
+  },
+  {
+    "nome": "Re:Zero - Starting Life in Another World",
+    "descricao": "Subaru Natsuki é transportado para um mundo de fantasia. Sem poderes de luta, ele descobre que tem a habilidade única de retornar da morte para um 'ponto de verificação' específico, usando isso para salvar seus amigos.",
+    "generos": "Isekai, Fantasia, Suspense Psicológico, Drama",
+    "imagem": "Imgs/ReZero - Starting Life in Another World Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/rezero-kara-hajimeru-isekai-seikatsu-daisanshou-truth-of-zero/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Re:Zero",
+    "destaque": false
+  },
+  {
+    "nome": "O Escudo do Herói (Tate no Yuusha no Nariagari)",
+    "descricao": "Naofumi Iwatani é invocado a um mundo paralelo como um dos Quatro Heróis Cardeais, mas é rejeitado e traído. Ele jura proteger o mundo, mesmo que precise se endurecer contra todos.",
+    "generos": "Isekai, Fantasia, Aventura, Ação",
+    "imagem": "Imgs/O Escudo do Herói Tate no Yuusha no Nariagari Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/tate-no-yuusha-no-nariagari/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Tate_no_Y%C5%ABsha_no_Nariagari#:~:text=O%20enredo%20segue%20Naofumi%20Iwatani,atacado%20por%20levas%20de%20monstros.",
+    "destaque": false
+  },
+  {
+    "nome": "Mob Psycho 100",
+    "descricao": "Shigeo 'Mob' Kageyama é um estudante com imensos poderes psíquicos. Ele tenta viver uma vida normal enquanto trabalha para um charlatão, mas seus poderes incontroláveis ameaçam explodir quando suas emoções atingem 100%.",
+    "generos": "Ação, Sobrenatural, Comédia, Slice of Life",
+    "imagem": "Imgs/Mob Psycho 100 Poster.jpeg",
+    "linkAssistir": "#",
+    "linkManga": "https://mobpsycho100manga.com/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Mob_Psycho_100",
+    "destaque": false
+  },
+  {
+    "nome": "Kaguya-sama: Love Is War",
+    "descricao": "Dois gênios, Kaguya Shinomiya e Miyuki Shirogane, lideram o conselho estudantil, mas são orgulhosos demais para confessar seu amor. Eles travam uma guerra psicológica diária para forçar o outro a se declarar primeiro.",
+    "generos": "Comédia Romântica, Psicológico, Escola",
+    "imagem": "Imgs/Kaguya-sama Love Is War Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://www.lermangas.com.br/2025/03/kaguya-sama-love-is-war.html",
+    "linkInfos": "https://cinepop.com.br/conheca-kaguya-sama-love-is-war-o-premiado-anime-que-e-o-death-note-da-comedia-romantica-338322/",
+    "destaque": false
+  },
+  {
+    "nome": "Oshi no Ko",
+    "descricao": "Um médico renasce como filho de sua idol favorita, Ai Hoshino. Ele navega pelos bastidores tóxicos da indústria de entretenimento, lidando com o mistério por trás da morte de sua mãe e a busca por vingança.",
+    "generos": "Drama, Idols, Mistério, Slice of Life",
+    "imagem": "Imgs/Oshi no Ko crie o poster.jpeg",
+    "linkAssistir": "#",
+    "linkManga": "https://www.lermangas.com.br/2024/11/oshi-no-ko.html",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Oshi_no_Ko",
+    "destaque": false
+  },
+  {
+    "nome": "Solo Leveling",
+    "descricao": "Sung Jinwoo, conhecido como 'o caçador mais fraco da humanidade', sobrevive a um calabouço mortal e ganha um sistema misterioso que o permite subir de nível infinitamente, transformando-o no caçador mais forte do mundo.",
+    "generos": "Ação, Fantasia, Isekai, Sobrenatural",
+    "imagem": "Imgs/Solo Leveling Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/solo-leveling",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Solo_Leveling",
+    "destaque": false
+  },
+  {
+    "nome": "Frieren e a Jornada Para o Além (Sousou no Frieren)",
+    "descricao": "A elfa maga Frieren, que vive por milênios, reflete sobre o tempo e a mortalidade após a morte de seu companheiro humano de aventura, embarcando em uma nova jornada para entender o significado da vida e da amizade.",
+    "generos": "Fantasia, Aventura, Slice of Life, Drama",
+    "imagem": "Imgs/Frieren e a Jornada Para o Além (Sousou no Frieren) Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/sousou-no-frieren/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/S%C5%8Ds%C5%8D_no_Frieren",
+    "destaque": false
+  },
+  {
+    "nome": "Tokyo Revengers",
+    "descricao": "Takemichi Hanagaki descobre que sua ex-namorada do fundamental foi assassinada por uma gangue. Ele ganha a habilidade de viajar 12 anos no tempo para tentar impedir a tragédia e salvar a vida dela.",
+    "generos": "Ação, Viagem no Tempo, Drama, Shounen",
+    "imagem": "Imgs/Tokyo Revengers Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://tokyorevengers.manganyaa.com/ler-online-gratis-portugues",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Tokyo_Revengers#:~:text=7.3%20Live%20Action-,Enredo,de%20um%20trem%20em%20movimento",
+    "destaque": false
+  },
+  {
+    "nome": "Blue Lock",
+    "descricao": "Para vencer a Copa do Mundo, a União Japonesa de Futebol contrata um técnico excêntrico que inicia o projeto Blue Lock: um rigoroso centro de treinamento onde 300 atacantes de elite competem em busca do título de 'o melhor egoísta'.",
+    "generos": "Esporte, Competição, Shounen, Thriller",
+    "imagem": "Imgs/Blue Lock Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mugiwarasoficial.com/manga/blue-lock/capitulo-1/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Blue_Lock#:~:text=A%20narrativa%20acompanha%20a%20jornada,um%20gol%20que%20definiria%20a",
+    "destaque": false
+  },
+  {
+    "nome": "Mushoku Tensei: Jobless Reincarnation",
+    "descricao": "Um NEET (pessoa que não estuda nem trabalha) de 34 anos morre e reencarna como um bebê chamado Rudeus Greyrat em um mundo de espada e magia, determinado a viver sua nova vida ao máximo e sem arrependimentos.",
+    "generos": "Isekai, Fantasia, Drama, Aventura",
+    "imagem": "Imgs/Mushoku Tensei Jobless Reincarnation Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/mushoku-tensei-isekai-ittara-honki-dasu/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Mushoku_Tensei",
+    "destaque": false
+  },
+  {
+    "nome": "Zom 100: Bucket List of the Dead",
+    "descricao": "Akira Tendo, um jovem exausto e sobrecarregado por seu trabalho, fica eufórico quando um apocalipse zumbi atinge Tóquio, finalmente se libertando de seu emprego e começando a cumprir sua lista de 100 coisas para fazer antes de morrer.",
+    "generos": "Comédia, Horror, Slice of Life, Pós-apocalíptico",
+    "imagem": "Imgs/Zom 100 Bucket List of the Dead Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://taosect.com/leitor-online/projeto/zombie-100-zombie-ni-naru-made-ni-shitai-100-no-koto/cap-tulo-01/#pagina/1",
+    "linkInfos": "https://en.wikipedia.org/wiki/Zom_100:_Bucket_List_of_the_Dead",
+    "destaque": false
+  },
+  {
+    "nome": "Dr. Stone",
+    "descricao": "Depois que um misterioso clarão transforma toda a humanidade em pedra, o gênio Senku Ishigami acorda milhares de anos depois e decide reconstruir a civilização do zero usando a ciência.",
+    "generos": "Aventura, Ficção Científica, Pós-apocalíptico, Shounen",
+    "imagem": "Imgs/Dr. Stone Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://kny.manganyaa.com/dr-stone/ler-online-gratis-portugues",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Dr._Stone#:~:text=Stone%20%C3%A9%20um%20mang%C3%A1%20de,ele%20tenta%20restaurar%20a%20humanidade.",
+    "destaque": false
+  },
+  {
+    "nome": "Fairy Tail",
+    "descricao": "Lucy Heartfilia, uma maga celestial, junta-se à infame e turbulenta guilda de magos Fairy Tail, formando uma equipe com Natsu Dragneel, um Dragon Slayer que busca seu dragão desaparecido, Igneel.",
+    "generos": "Fantasia, Aventura, Magia, Comédia",
+    "imagem": "Imgs/Fairy Tail Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://lermangasonline.wordpress.com/category/fairy-tail/",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Fairy_Tail#:~:text=A%20hist%C3%B3ria%20segue%20as%20aventuras,a%20procura%20do%20drag%C3%A3o%20Igneel.",
+    "destaque": false
+  },
+  {
+    "nome": "Death Note",
+    "descricao": "Light Yagami, um estudante do ensino médio, encontra um caderno sobrenatural (o Death Note) que permite matar qualquer pessoa cujo nome seja escrito nele. Ele decide usá-lo para limpar o mundo do mal.",
+    "generos": "Suspense, Mistério, Sobrenatural, Psicológico",
+    "imagem": "Imgs/DeathNote Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/death-note",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Death_Note",
+    "destaque": false
+  },
+  {
+    "nome": "Code Geass: Lelouch of the Rebellion",
+    "descricao": "Em uma realidade alternativa, o exilado príncipe Lelouch vi Britannia ganha o poder do Geass, que permite impor sua vontade sobre os outros, e decide usá-lo para destruir o império tirânico de seu pai.",
+    "generos": "Mecha, Ficção Científica, Thriller, Militar",
+    "imagem": "Imgs/Code Geass Lelouch of the Rebellion Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangadex.org/title/678b0682-b887-4de4-b774-addf10d16c8b/code-geass-lelouch-of-the-rebellion",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Code_Geass:_Lelouch_of_the_Rebellion",
+    "destaque": false
+  },
+  {
+    "nome": "Hunter x Hunter (2011)",
+    "descricao": "Gon Freecss sai de casa para fazer o perigoso e rigoroso Exame Hunter, buscando seguir os passos de seu pai, um Hunter lendário. Ele faz amizade com Killua, Kurapika e Leorio em sua jornada.",
+    "generos": "Aventura, Ação, Fantasia, Shounen",
+    "imagem": "Imgs/Hunter_×_Hunter Poster.png",
+    "linkAssistir": "#",
+    "linkManga": "https://mangalivre.blog/manga/hunter-x-hunter",
+    "linkInfos": "https://pt.wikipedia.org/wiki/Hunter_x_Hunter",
+    "destaque": false
+  }
+]

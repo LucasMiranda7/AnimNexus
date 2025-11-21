@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="Imgs/favicon.ico" type="image/x-icon" />
+    <title>AniNexus</title>
+  </head>
+  <body>
+
+    <!--HEADER-->
+    <header>
+      <div class="logo">
+        <h1>Catálogo AniNexus</h1>
+      </div>
+
+      <div class="search-bar">
+        <input
+          type="text"
+          id="input-busca"
+          placeholder="Pesquise por nome, gênero ou estúdio"
+        />
+         <button id="botao-busca">Buscar</button>
+    </header>
+
+    <!--MAIN-->
+    <main>
+      <section class="featured-anime">
+        <img
+          src="Imgs/Attack_on_Titans Poster.jpg"
+          alt="Shingeki no Kyojin Poster"
+          class="featured-poster"
+        />
+        <div class="featured-info">
+          <h2>Shingeki no Kyojin (Attack on Titan)</h2>
+          <span class="subtitle">Ação, Fantasia Sombria, Shonen</span>
+          <p>
+            Após a queda da Muralha Maria, Eren Yeager e seus amigos
+            juram vingança contra os Titãs. A humanidade luta pela
+            liberdade em um  mundo de mistérios e sobrevivência. 
+          </p>
+          <a href="https://www.crunchyroll.com/" class="watch-button link-watch" target="_blank">Assista na Crunchyroll!</a
+          ><br /><br />
+          <a href="https://mangalivre.blog/manga/attack-on-titan/" class="watch-button link-manga" target="_blank"> Acesse ao Mangá!</a>
+          <a href="https://pt.wikipedia.org/wiki/Shingeki_no_Kyojin" class="watch-button link-infos" target="_blank"> Informações</a>
+        </div>
+      </section>
+
+      <section class="anime-grid-container">
+        <div class="anime-grid" id="grid-animes"></div>
+      </section>
+    </main>
+
+    <!--FOOTER-->
+    <footer class="footer">
+      <img src="Imgs/favicon.ico" alt="">
+      <div class="footer-links">
+        <span>AniNexus</span> 
+        <a href="https://www.alura.com.br/" target="_blank"><span style="color: var(--color-primary-blue);">Alura</span></a>
+        <a href="https://www.linkedin.com/in/lucas-miranda7/" target="_blank">Linkedin</a>
+        <a href="https://github.com/LucasMiranda7" target="_blank">GitHub</a>
+        <a href="#">Gêneros</a> 
+        <a href="#">Temporadas</a> 
+        <span>Desenvolvido por Lucas Miranda | © 2025 Todos os direitos reservados</span> 
+      </div>
+    </footer>
+    
+    <script src="script.js"></script>
+ 
+  </body>
+</html>
