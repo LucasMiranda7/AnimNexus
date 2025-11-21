@@ -1,4 +1,4 @@
-// Referências para os elementos do DOM
+// Referências para elementos do DOM
 const inputBusca = document.getElementById("input-busca");
 const botaoBusca = document.getElementById("botao-busca");
 const gridAnimes = document.getElementById("grid-animes");
