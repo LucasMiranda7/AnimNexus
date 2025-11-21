@@ -21,7 +21,7 @@
 - **O script combina o nome** do anime e seus gêneros em uma única string para otimizar a busca **(veja `filtrarAnimes em script.js`).**
 - **Seção de Destaque (Featured):** Uma seção fixa no topo é dedicada a um título principal, com sinopse e links diretos. O elemento HTML utilizado para isso é a `section` com a classe `<section class="featured-anime">`.
 - **Design Responsivo:** O layout se adapta a diferentes tamanhos de tela (desktop e mobile), garantindo uma experiência de navegação otimizada.
-
+---
 ### 🛠 Tecnologias e Estruturas Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
@@ -33,11 +33,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
 | **JavaScript (Vanilla)** | Lógica Front-End | **Manipulação de DOM** (função **`mostrarCardsAnime`**) e **Event Listeners** para a funcionalidade de busca. |
 | **JSON** | Persistência de Dados | O catálogo completo de animes é armazenado no arquivo **`animes.json`** e carregado de forma assíncrona. |
 
+---
 ### 🚀 Como Acessar
 
 Você pode visualizar o projeto rodando online ou configurar ele localmente.
 
-* **Online:** (Insira o link do seu GitHub Pages aqui)
+* **Online:**
     🔗 [Clique aqui para acessar o Catálogo AniNexus](https://lucasmiranda7.github.io/AnimNexus/)
 ---
 ### 🎨 Layout
